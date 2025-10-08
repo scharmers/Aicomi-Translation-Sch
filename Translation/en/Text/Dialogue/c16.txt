@@ -202,13 +202,10 @@
 「ふふ、どうやらそうらしいわ」=「Hehe, it seems so.」
 「俺達の仲をより深める為に愛称を決めたいんだけどどうかな？」=「I'd like to decide on a nickname to deepen our relationship. What do you think?」
 「愛称……？ たとえばどんな感じ？」=「A nickname...? Like what?」
-「俺のことを[Pあだ名]って呼ぶとか」=「Like calling me a [Pあだ名].」
 「そ、そんな呼び方がいいわけ？ あんたってだいぶ変ね……」=「Y-You want me to call you that? You're pretty weird...」
 「もしかして嫌？」=「Don't tell me you don't want to?」
-「別に、あんたがそうしたいならいいけど……[Pあだ名]」=「It's fine if that's what you want, but... [Pあだ名].」
 「嬉しい」=「I'm happy.」
 「……ちなみに私のことはなんて呼ぶつもりなの？」=「...By the way, what are you going to call me?」
-「んー……[Hあだ名]っていうのを考えてたんだけど……」=「Hmm... I was thinking [Hあだ名]...」
 「ふーん。なんか特別って感じでいいかも」=「Hmm. It feels kind of special.」
 「気に入ってくれてよかった。愛称は特別だからたまに呼ぶ合うことにしよっか？」=「I'm glad you like it. It's a special nickname, so why don't we call each other once in a while?」
 「わかったわ。まあ……みんなの前で呼ばれたら恥ずかしいしね」=「Okay. Well... it'd be embarrassing if you called me in front of everyone.」
@@ -401,10 +398,8 @@
 「あれ、スイカって野菜だっけ？」=「Huh? Is watermelon a vegetable?」
 「野菜よ。まあ、ほとんど果物みたいな扱いだけど」=「Vegetables. Well, they're mostly treated like fruit.」
 「ねえねえ、ちょっと提案があるんだけどいい……？」=「Hey, can I make a suggestion...?」
-「あんたのことあだ名で呼びたいんだけどどう思う？ 例えば……ねぇ、[Pあだ名]」=「I'd like to call you by your nickname. What do you think? For example... Hey, [Pあだ名].」
 「それ、すごくいいと思う」=「I think that's really good.」
 「……やった。じゃあさ、私のあだ名もあんたが考えてくれない？」=「...I did it. Then could you come up with a nickname for me?」
-「そうだなぁ……じゃあ、[Hあだ名]はどうかな？」=「Let's see... Then how about a [Hあだ名]?」
 「結構センスいいじゃない」=「You've got pretty good taste.」
 「気に入ってもらえてよかったよ」=「I'm glad you like it.」
 「ところで、これからずっとあだ名で呼び合うの？」=「By the way, are we going to keep calling each other by nicknames from now on?」
@@ -925,8 +920,6 @@
 「……ダメかな？」=「...I guess I can't?」
 「いいわよ……私もそのつもりだし」=「It's fine... That's what I plan to do.」
 「朝から気持ち良くなれたでしょ？」=「You felt good this morning, didn't you?」
-「[Pあだ名]、おはよ」=「Good morning, [Pあだ名].」
-「おはよう、[Hあだ名]。調子よさそうだね」=「Good morning, [Hあだ名]. You look like you're doing well.」
 「ふふん。わかる？ 私はいつも絶好調なんだから」=「Heh heh. Can you tell? I'm always in peak condition.」
 「もしかして……授業サボろうとしてるんじゃないの？」=「Don't tell me... you're trying to skip class?」
 「ぎくっ」=「*giggle*」
@@ -1237,7 +1230,6 @@
 「話はそれで終わり？ わかったわ」=「Is that all you have to say? All right.」
 「これで終わりって……まあいいけどね」=「This is the end... Well, whatever.」
 「切り上げるなら賛成。話し込んじゃったら、お祭りが終わっちゃうかもしれないし……」=「I agree if you're going to call it a day. If we talk it over, the festival might end...」
-「[Pあだ名]、今ちょっといい？」=「Do you have a moment, [Pあだ名]?」
 「あんたと？ まあ……いいけど。あんまり得意じゃないから期待しないでよね」=「With you? Well... whatever. I'm not very good at it, so don't get your hopes up.」
 「苦手だし、あんまりしなくないわ……」=「I'm not good at it, so I don't mind...」
 「ここは男子禁制なんだから入っちゃダメよ！ 早く出てって！」=「Boys aren't allowed here, so you can't go in! Get out of here!」
@@ -1347,7 +1339,6 @@
 「ふーん」=「Hmm.」
 「はぁ」=「Hah.」
 「あっそ～」=「Ah, I see~」
-「[Pあだ名]……なんか私……えっちな気分になっちゃってて……シてほしいんだけど、いい？」=「[Pあだ名] ...I'm... starting to feel dirty... I want you to do it. Is that okay?」
 「いいわ。どこに行くのかしら」=「Okay. I wonder where we're going.」
 「運動って得意？」=「Are you good at sports?」
 「あんまり得意じゃないわ。授業でやるから仕方なくやってるけど」=「I'm not very good at it. I do it in class, so I have no choice but to do it.」
@@ -1648,8 +1639,6 @@
 「な、なに？ 屋台を回らなくていいわけ？」=「Wh-What? You don't need to go around the stalls?」
 「う～ん……まあ、あんたと一緒ならいっか」=「Hmm... Well, as long as I'm with you, it's fine.」
 「ちょっと気乗りしないわ……ごめんね」=「I don't really feel like it... Sorry.」
-「……ねえ、[Pあだ名]」=「...Hey, [Pあだ名].」
-「どうしたの？ [Hあだ名]」=「What's wrong? [Hあだ名].」
 「べ、別に！ 呼んでみただけよ」=「N-Not really! I just wanted to call you.」
 「あ、あんまり見ないでよ？ 意識しちゃうじゃない……」=「D-Don't stare at me like that, okay? You're making me self-conscious...」
 「私と話がしたいの？」=「Do you want to talk to me?」
@@ -1709,8 +1698,6 @@
 「……恥ずかしいこと聞かないでよっ」=「...Don't ask such embarrassing questions!」
 「もう！ 違う話にしてちょうだい！」=「Geez! Tell me a different story!」
 「ちょっと、何で堂々と入ってるのよ！ 早く出て行って！」=「Hey, why are you going in so boldly!? Get out of here!」
-「ねぇねぇ、[Hあだ名]」=「Hey, hey, [Hあだ名].」
-「……[Pあだ名]。もう……これでいいの？」=「...[Pあだ名]. Are you... okay with this?」
 「ん……いいわよ？ 私もその、行きたいと思ってたし……」=「Mm... Sure. I, umm, wanted to go too...」
 「ごめん……ちょっと考えさせてもらっていい？」=「Sorry... Can I think about it for a bit?」
 「いいわよ。私も出かけたいって思ってたの」=「It's fine. I wanted to go out too.」

@@ -18,10 +18,7 @@
 「変化？ 例えば、どんなの？」=「Change? Like what?」
 「……あだ名……とか」=「...A nickname... or something.」
 「お互いにあだ名をつけるってこと？ いいかも！」=「You mean we're both going to give each other nicknames? That might be nice!」
-「じゃあ……[Pあだ名]」=「Then... [Pあだ名].」
-「それ、俺のあだ名？ いいね。じゃあ、俺もつけよう。そうだな……[Hあだ名]ってどう？」=「That's my nickname? Sounds good. Then I'll give it a try too. Let's see... How about [Hあだ名]?」
 「いいと……思う……」=「I think... it's okay...」
-「やった。じゃあ、[Hあだ名]。ずっと仲良くしようね」=「Great. Well then, [Hあだ名]. Let's be friends forever.」
 「うん……」=「Yeah...」
 「せっかくつけたし……これからずっと、あだ名で呼び合うことにする？」=「Now that we've given it a try... why don't we keep calling each other by our nicknames from now on?」
 「それは……違う。時々……」=「That's... not it. Sometimes...」
@@ -354,10 +351,6 @@
 「……おうち……お隣に引っ越す？」=「...Should we... move to the house next door?」
 「それはすごく大変だから、あだ名をつけて距離を縮めるのはどうかな？」=「That's a lot of work, so why don't we call it a nickname and close the distance between us?」
 「あだ名……じゃあ……」=「A nickname... Then...」
-「待って。もう決めてるんだ。俺のあだ名は[Pあだ名]がいい。[Pあだ名]って呼んで」=「Wait. I've already decided. My nickname is [Pあだ名]. Call me [Pあだ名].」
-「……それでいいんだ……わかった……[Pあだ名]」=「...That's fine... Got it... [Pあだ名].」
-それでいいんだ……わかった……[Pあだ名]=That's fine... Got it... [Pあだ名].
-「ありがとう、[Hあだ名]」=「Thank you, [Hあだ名].」
 「……それ……わたしのあだ名？」=「...Is that... my nickname?」
 「うん。駄目？」=「Yeah. Can't I?」
 「……駄目じゃない……これから、ずっとこう呼ぶ？」=「...You can't... Do you want me to call you that from now on?」
@@ -1064,7 +1057,7 @@
 「あったよ。ビル全部、本屋とか」=「There it is. All the buildings are bookstores and stuff.」
 「……？ ビルが全部……本屋？ そんな……嘘……」=「...? All the buildings... are bookstores? That's... a lie...」
 「嘘じゃないよ。本当だよ」=「I'm not lying. I'm telling the truth.」
-「そんなものが存在するなんて……公民館の図書室より……大きい本屋なんて……信じられない…………ずるい」=「I can't believe something like that exists... A bookstore... bigger than the library in the village hall... That's not fair...」
+「そんなものが存在するなんて……公民館の図書室より……大きい本屋なんて……信じられない…………ずるい」=「I can't believe something like that exists... A bookstore... bigger than the library in the community center... That's not fair...」
 「い、いつか行こう！ 案内するから！」=「L-Let's go someday! I'll show you around!」
 「……わかった。行こう……」=「...Okay. Let's go...」
 「迷子になったこと……ある？」=「Have you... ever been lost?」
@@ -1243,8 +1236,6 @@
 「そうだね。日が暮れちゃってるから……」=「Yeah. The sun's gone down, so...」
 「太陽が……わたし達を分かつ時間……」=「The time when the sun... splits us...」
 （もう少し一緒にいたいし……思い切って、どこかへ誘おうかな）=(I want to be with him a little longer... Maybe I should invite him somewhere.)
-「……おはよう、[Pあだ名]」=「...Good morning. [Pあだ名].」
-「おはよう！ [Hあだ名]……なんか、いいね。あだ名」=「Good morning! [Hあだ名]... That's kind of a nice nickname.」
 「……うん。そう思う」=「...Yeah. I think so.」
 「……会って……しまったね……」=「...We... met...」
 「別々にさぼってるのにね。これからどうするの？」=「Even though we're slacking off separately. What are you going to do now?」
@@ -1338,8 +1329,6 @@
 「……うん。また会おうね……」=「...Yeah. We'll meet again...」
 「ハレー彗星みたいだね……」=「It's like a Halley comet...」
 「ん……お祭りの空気感は……嫌いじゃない」=「Mm... I don't hate the festive atmosphere...」
-「あのね、[Hあだ名]」=「You know, [Hあだ名].」
-「……何？ [Pあだ名]」=「...What? [Pあだ名].」
 「……あなたの所為で、空が曇った……」=「...Because of you, the sky has clouded over...」
 「……さようなら……またどこかで……」=「...Goodbye... I'll see you again somewhere...」
 「今度また……話そう……」=「Let's... talk again next time...」
@@ -1467,7 +1456,6 @@
 「……会えたね……」=「...We met...」
 「いいよ……運動しよう……」=「It's okay... Let's get some exercise...」
 「わたしは……遠慮するね……」=「I'll... hold back...」
-「ねえ……[Pあだ名]……」=「Hey... [Pあだ名]...」
 「ん？ なに？」=「Hm? What?」
 「変化を……感じたかった」=「I... wanted to feel a change.」
 「いるのは……知っていた。空が……教えてくれた……」=「I knew... you were here. Sora... told me...」
@@ -1500,7 +1488,6 @@
 「……はあ……」=「...Haah...」
 「用件……手短で……お願い」=「My business... is brief... please.」
 「隠れるのが上手……雨雲の向こうにいる太陽みたい……」=「You're good at hiding... It's like the sun on the other side of the rain clouds...」
-「[Pあだ名]……いやらしいこと、したい……」=「[Pあだ名]... I want to do something dirty...」
 「デート……？ いいよ……楽しい一日に……しよう」=「A date...? Sure... Let's have a fun day...」
 「英語のヒアリングの授業……少し緊張する……」=「English listening class... I'm a little nervous...」
 よくわかるよ=I know exactly what you mean.
@@ -1745,7 +1732,6 @@
 「ここ……あなたは来てはいけないのに……仕方ない」=「You... shouldn't be here... but there's no helping it.」
 「……あなたも、楽しんでる？」=「...Are you having fun too?」
 「顔……にやけてる……かわいい……」=「Your face... is grinning... So cute...」
-「……話を……しよう。[Pあだ名]」=「...Let's... talk. [Pあだ名].」
 「……潜むのが、上手……Ｍ７８星雲の……スパイ？」=「...You're good at hiding... spying... in the M78 Nebula?」
 「時間が……ないから……」=「We... don't have much time...」
 「うん……しよう……」=「Yeah... Let's...」

@@ -471,16 +471,11 @@
 「ふふん♪ もっと光栄に思ってくれてもいいのよ？」=「Hehe♪ You can be more honored, you know?」
 「そろそろ恋人ならではの呼び方みたいなの欲しくない？」=「Don't you think it's about time for us to start calling each other lovers?」
 「なあに、雑魚じゃ不満？」=「What, you're not satisfied with being a small fry?」
-「他にも……[Pあだ名]とか呼んでみて欲しいな」=「I'd like you to try calling me... a [Pあだ名], too.」
 「えー♡ そういう風に呼んでみて欲しかったんだぁ？ どうしよっかな～」=「Whaaat? ♡ So that's what you wanted me to call you? What should I do?」
 「一生のお願い！」=「A lifelong wish!」
-「ここで使っちゃうの～？ じゃあ……[Pあだ名]」=「You're going to use it here? Then... [Pあだ名].」
-「ありがとう、[Hあだ名]」=「Thank you, [Hあだ名].」
 「どさくさでアタシをあだ名で呼ぶなんて生意気～♡」=「How brazen of you to call me by my nickname in such a hurry~♡」
 「ダメだったかな？」=「Was that a bad idea?」
 「しょうがないなー、たまにならいいよ♡」=「Oh well. It's fine if it happens every once in a while. ♡」
-「ありがと。それじゃあこれからもよろしく、[Hあだ名]」=「Thanks. Then I'll be counting on you from now on. [Hあだ名].」
-「ええ、よろしくされてあげるわ。[Pあだ名]」=「Yes, I'll take good care of you. [Pあだ名].」
 「あんた、先生たちと何話してんの？」=「What are you talking about with the teachers?」
 「ちょっと金魚すくいでもやってみようかしら」=「Maybe I'll try scooping up some goldfish.」
 「いいね、じゃあ俺は横で応援しとくよ」=「Sounds good. Then I'll cheer you on from the sidelines.」
@@ -637,12 +632,9 @@
 「そこは飽きないでよ」=「Don't get tired of that.」
 「だから、たまにはその……あだ名で呼んでみない？」=「So, umm... why don't you try calling me by my nickname once in a while?」
 「あだ名かぁ……いいアイデアかもね」=「A nickname, huh...? That might be a good idea.」
-「[Pあだ名]……っていうのはどう？」=「How about... a [Pあだ名]?」
-「おお、いいね。じゃあこっちは……[Hあだ名]？」=「Oh, nice. So this is... a [Hあだ名]?」
 「案外悪くないじゃない」=「It's surprisingly not bad.」
 「これからはこの呼び方にする？」=「Should I call you that from now on?」
 「そればっかりだと飽きちゃうだろうし、たまにだけにしましょ」=「You'll get bored if you keep doing that, so let's just do it once in a while.」
-「わかったよ、[Hあだ名]」=「Okay. [Hあだ名].」
 「エッチ……！？ ただれてるわね……」=「Dirty...!? You're getting carried away...」
 「まあ……アタシも興味あるから……いいわ」=「Well... I'm interested too, so... it's fine.」
 「あんた、結構面白いやつだったのね」=「You were a pretty interesting guy, huh?」
@@ -1254,8 +1246,6 @@
 「昔は十分休憩でもサッカーとかしてたりしてたのにねー」=「In the past, we used to play soccer even when we were taking plenty of breaks.」
 「それはすごいね」=「That's amazing.」
 「えー？ そうかしら？ アタシのとこでは常識だったんだけど」=「Huh? Really? It was common knowledge in my place.」
-「[Pあだ名]、今日も朝から弱そうな顔ねー」=「[Pあだ名] You look weak again this morning.」
-「おはよう、[Hあだ名]。昨日よりは強いと思うよ」=「Good morning, [Hあだ名]. I think you're stronger than yesterday.」
 「ほんとー？ まあ今日も頑張んなさいよね」=「Really? Well, good luck today.」
 「結構最近の作品とかも展示されてるのね」=「There's a lot of recent works on display, too.」
 「最近だとゲームの美術展とかもあるらしいよ、期間限定の企画とかだけど」=「Apparently, there's even an art exhibition for games these days. It's a limited-time project, though.」
@@ -1459,8 +1449,6 @@
 「カフェラテって十回言ってみて」=「Try saying caffè latte ten times.」
 「あんた、引っ掛け問題じゃなくて真ん中の言葉だけで興奮しようとしてるでしょ」=「You're trying to get excited with just the words in the middle, not the hook problem, aren't you?」
 「こういう話をすんのにも雰囲気ってのがあるでしょ、バカ」=「Talking about stuff like this has an atmosphere to it, you idiot.」
-「[Pあだ名]……ほら、返事は？」=「[Pあだ名]... Come on, what's your answer?」
-「なにかな[Hあだ名]」=「What is it [Hあだ名]?」
 「あんたにあだ名で呼んで欲しくて、へへ」=「I wanted you to call me by my nickname, hehe.」
 「もちろんいいわ。雑魚なりに楽しませてね？」=「Of course. Have fun in your own way, okay?」
 「冬と言ったら肉まん？ おでん？」=「Winter? Meat buns? Oden?」
@@ -1515,7 +1503,6 @@
 「そんなんだといつまでも雑魚のまんまじゃない？」=「How long are you going to stay like a small fry like that?」
 「えっ、なに？」=「Huh? What?」
 「ほっといて」=「Leave me alone.」
-「[Pあだ名]、なんか面白い話して」=「[Pあだ名], tell me something interesting.」
 「小腹が空いたわ。あんたも付き合いなさい？」=「I'm hungry. Why don't you come with me?」
 「よし、何を食べようかしら」=「Okay, what should I eat?」
 「ふぅん……」=「Hmm...」
@@ -1795,8 +1782,6 @@
 「そうだ、せっかくだから一緒にお祭り回ってあげるわ」=「Oh yeah, since we're here, let's go to the festival together.」
 「あんたは幸せ者ね～？」=「You're a lucky man, aren't you?」
 「後悔したって遅いんだから」=「It's too late for regrets.」
-「ねえ、[Hあだ名]」=「Hey, [Hあだ名].」
-「なあに、[Pあだ名]……ふふっ、こういうのも悪くないわね」=「What a [Pあだ名]... Hehe, this isn't a bad idea.」
 「あんたの為に時間を割いてあげるわ」=「I'll spare some time for you.」
 「だめー♡ ウソウソ♡ いいよ♡ お祭りデート、いっぱい遊びましょう？」=「No ♡ No way ♡ That's a lie ♡ Okay ♡ Let's have lots of fun on our festival date, okay?」
 「あんたってブラックとか飲めるの？」=「Can you drink black or something?」
@@ -1942,7 +1927,6 @@
 「駄菓子屋で駄弁るって、なんかこういうもんよね」=「This is what it feels like to waste time at a candy store.」
 「は～、一緒にお菓子を食べたり話したりするのっていいわね♡」=「Ha~, it's nice to eat sweets and talk with each other. ♡」
 「アタシがなんで機嫌悪いか分かる？」=「Do you know why I'm in a bad mood?」
-「[Pあだ名]……あんたとエッチしてあげる」=「[Pあだ名]... I'll have sex with you.」
 「あんまり興味ないわね」=「I'm not really interested.」
 「ねえ、今度の休日、二人っきりでおでかけしましょうよ」=「Hey, let's go out alone next weekend.」
 「やったー！ ……おっと、今のはあんたの為に喜んであげただけだから」=「Yay! ...Whoops, I was just happy for your sake.」

@@ -287,8 +287,6 @@
 「……のぉ、我とお主も良き関係になってきたわけじゃ……もう少し、距離を縮めた呼び方をせんか？」=「...Hey, you and I have a good relationship now... Why don't we call each other a little closer?」
 「俺は構わないよ。なんて呼んでくれるの？」=「I don't mind. What are you going to call me?」
 「ふふ、前から考えておったのじゃがな……」=「Hehe, I've been thinking about this for a while now...」
-「[Pあだ名]……というのは、どうじゃ？」=「'[Pあだ名]'... How about that?」
-「ちょっとくすぐったい感じがするね……俺はだったら、[Hあだ名]かな」=「It feels a little ticklish... If that's the case, I guess it's [Hあだ名].」
 「確かに恥ずかしさはあるの……まあ、お主がよければこれで決まりじゃな」=「It's certainly embarrassing... Well, if you're okay with it, then it's decided.」
 「……う、うん、よろしく」=「...Y-Yeah, nice to meet you.」
 「そ、そんな恥ずかしそうにするでない、我も恥ずかしいではないか」=「D-Don't look so embarrassed. It's embarrassing for Us too.」
@@ -441,15 +439,12 @@
 「あまーい良い香りがするね。食欲がそそられるよ」=「It smells so good. It's tantalizing.」
 「欲しいなら買ってくればよいのではないか？」=「If you want it, why don't you just buy it?」
 「うーん……今日はいいや。案内してもらってる途中に、俺だけ食べ歩きするのは悪いしね」=「Hmm... Not today. I don't want to be the only one walking around eating while you're showing me around.」
-「ねぇ、[Hあだ名]」=「Hey, [Hあだ名].」
 「……ん？ いきなりなんじゃ、それは我のことか？」=「...Hm? What's this all of a sudden? You mean me?」
 「そう、普段と違う呼び方もいいかなって思って……」=「Yeah, I thought it'd be nice to call you something different from usual...」
 「な、なんだかくすぐったいの……まぁ、お主がそう呼びたいのであれば……」=「I-It kind of tickles... Well, if that's what you want to call it...」
-「ふふ、じゃあ決まり。あ、俺の事は[Pあだ名]って呼んでよ」=「Hehe, then it's decided. Oh, call me [Pあだ名].」
 「な、なんじゃその呼び方は……本当にそれが良いのか？」=「Wh-What are you calling me...? Is that really okay?」
 「うん、考えてみたんだけど……ダメ？」=「Yeah, I thought about it... Can't I?」
 「いや、まあ……お主の願いじゃ、我も努力はしてみようと思う……」=「No, well... With your wish, I think I'll try my best...」
-「んぅ……[Pあだ名]」=「Mm... [Pあだ名].」
 「これで、良いじゃろ？ ま、毎回こんな恥ずかしい呼び方をしないとダメなのか？」=「Isn't this fine? Well, does it have to be this embarrassing every time?」
 「あはは……確かにちょっと恥ずかしいかもね。たまに呼び合うって感じにしようか」=「Ahaha... Yeah, it might be a little embarrassing. Let's call each other by our first names every once in a while.」
 「お風呂上りで涼んでるところかな？」=「Maybe she's just cooling off after taking a bath?」
@@ -1173,8 +1168,6 @@
 「しかしこれはなんじゃ……？ うさぎ……いや、ハムスターか？」=「But what is this...? A rabbit... No, a hamster?」
 「俺にはフェレットに見えるけど……」=「You look like a ferret to me...」
 「可愛くはあるが……モチーフがわからんとちょっと不気味じゃのう」=「It's cute, but... it's a little creepy when you don't know the motif.」
-「[Pあだ名]。おはようじゃ」=「[Pあだ名]. Good morning.」
-「おはよう[Hあだ名]。あだ名で呼んでくれて嬉しいよ」=「Good morning, [Hあだ名]. I'm happy you call me by my nickname.」
 「ふふ、我も気分がよい。今日もよろしくじゃ」=「Fufu, I feel good too. I look forward to today as well.」
 「ふぅ……今日もいっぱい遊んだのじゃ～」=「Phew... We played a lot today too.」
 「だねぇ……俺、ちょっとはしゃぎ過ぎてたかも」=「Yeah... I think I got a little too excited.」
@@ -1472,7 +1465,6 @@
 「良ければ、運動に付き合ってほしいのじゃが……？」=「If you don't mind, I'd like you to join me for some exercise...」
 「ふふっ、そう言ってくれると嬉しいの。よろしくじゃ」=「Hehe, I'm happy to hear you say that. It's nice to meet you.」
 「残念じゃ……やる気が空回ってしまった」=「Unfortunately... I've lost all motivation.」
-「[Pあだ名]……我は、お主が欲しい……エッチがしたいんじゃが……どうじゃ？」=「[Pあだ名]... I want you... I'd like to have sex... What do you think?」
 「良ければ、一緒に勉強に付き合ってくれぬか？」=「Would you like to study with me?」
 「決まりじゃな。一緒に頑張るとしよう」=「It's decided. Let's do our best together.」
 「そうか……残念じゃが仕方ないの」=「I see... Unfortunately, it can't be helped.」
@@ -1564,12 +1556,10 @@
 エナドリだね=It's an energy bird.
 「お、奇遇じゃの。ちなみに我の場合、科目ごとに茶葉を変えたりするぞ」=「Oh, what a coincidence. By the way, in our case, we change the tea leaves depending on the subject.」
 「一時期脳トレなどのゲームが流行ったが、お主は好きかの？」=「At one point, games like brain training became popular. Do you like them?」
-大好きだよ=I love them.
-そこまでじゃないかな=Not that much, I suppose.
+大好きだよ=I love you.
+そこまでじゃないかな=I don't think that's it.
 「おお、そうか！ 我も好きだったぞ、簡単に楽しめて競技性もあったからな」=「Oh, I see! I liked it too. It was easy to enjoy, and it was competitive.」
 「おお、なんじゃお主か、奇遇じゃの……何か用か？」=「Oh, it's you. What a coincidence... Do you need something?」
-「のう……[Pあだ名]」=「Hey... [Pあだ名].」
-「……ん？ どうかした、[Hあだ名]」=「...Hm? What's wrong, [Hあだ名]?」
 「うむ、ちゃんと覚えてくれておるの……なあに、呼んだだけじゃ」=「Yeah, he remembers... What? I just called him.」
 「君ってどの教科が得意なの？」=「Which subject are you good at?」
 「うーん……どの教科もそつなく解けるが、そうじゃな……」=「Hmm... I can solve any subject, but that's true...」
@@ -1748,7 +1738,6 @@
 「やった！ 本当に？ すっごく嬉しいよ！」=「Yay! Really? I'm so happy!」
 「そこまで喜ばれると照れくさいの……しかし、お主と付き合うことになるとはな……」=「It's embarrassing when you're that happy... But I never thought I'd end up going out with you...」
 「出会ったばかりの頃は、想像もせんかった……」=「When we first met, I couldn't even imagine...」
-「[Pあだ名]、良ければ話さぬか？」=「P Nickname, would you like to talk? 」 
 「あまり見られるのは恥ずかしいが……お主には、特別じゃ」=「It's embarrassing to be seen so much, but... it's special to you.」
 「すまぬ……お主の気持ちには答えられん」=「I'm sorry... I can't answer your feelings.」
 「朝食はやっぱりご飯派なのかな？」=「Do you really prefer rice for breakfast?」
@@ -1839,8 +1828,6 @@
 「まぁ、ほどほどにじゃな……なんじゃ？ 詮索しても友達の事を話したりはせんぞ？」=「Well, don't go too far... What? I won't tell you about my friends even if you pry.」
 「こ、こういう話は苦手じゃ！ 我よりも他の者に聞けばよいじゃろ」=「I-I'm not good at this sort of thing! Why don't you ask someone else?」
 「ん、どうしたのじゃ？」=「Hm? What's wrong?」
-「ねぇ、[Hあだ名]？」=「Hey, [Hあだ名]?」
-「……[Pあだ名]。この呼び方はやっぱり恥ずかしいの……」=「...[Pあだ名]. It really is embarrassing to call you that...」
 「ここに連れてきたかったのか？」=「Did you want to bring her here?」
 「なんでじゃろうな、つい目でおってしまう……」=「I don't know why, but I can't help but stare...」
 「今度の祭り、一緒に見て回らんか？ お主と行くのは楽しそうじゃ」=「Would you like to take a look around the festival with me? Going with you sounds like fun.」
@@ -1880,7 +1867,7 @@
 「流行やトレンドには敏感な方なのかの？」=「Are you sensitive to trends and trends?」
 鈍感だね=You're so dense.
 意識はしてないかな=I don't think he's conscious of it.
-結構気にしてるよ=I'm pretty worried about it.
+結構気にしてるよ=I'm pretty worried about you.
 「こんな田舎だと、そういうもんじゃよな。調べたところでおしゃれする場所もないしの」=「That's just how it is in the countryside. There's nowhere to dress up even if you look into it.」
 「自分磨きとやらを始めるとして、何から手を付けたらよいと思う？」=「If you're going to start polishing yourself, where do you think you should start?」
 鏡を見るといいよ=You should look in the mirror.

@@ -123,15 +123,10 @@
 「オマエ、けっこー上手いもんな……いやっ、オレは負けねーから。てわけで、手伝いは程々に頼むぜ」=「You're pretty good at this... No, I won't lose. So please don't help too much.」
 「俺達もけっこう仲良くなったし、そろそろお互いのこと違う呼び方とかしてみない？」=「We've gotten pretty close, so why don't we try calling each other something different?」
 「お！ それいーな。んじゃあ、オマエのことなんて呼べばいーんだ？ なんか希望とかあんのか？」=「Oh! That sounds good. Then what should I call you? Do you have any hope?」
-「まあね。俺のこと、[Pあだ名]って呼んでほしいんだ」=「Yeah. I want you to call me a [Pあだ名].」
-「え……オマエ、そーいう感じがいいのか？ まぁいいけど……[Pあだ名]……これでいーのか？」=「Huh...? You like that kind of thing? Well, whatever... [Pあだ名]... Is this okay?」
-「うん、そう呼んで貰えると嬉しいよ。それと、君は[Hあだ名]……ってどうかな？」=「Yeah, I'm happy to hear you call me that. Also, you're a [Hあだ名]... How about that?」
 「それがオレのあだ名か……うん、悪くない。慣れてねーから、ちょっと照れくさいな」=「So that's my nickname... Yeah, not bad. I'm not used to it, so it's a little embarrassing.」
 「気に入ってもらえてよかったよ。特別ってことで、時々使えばいいと思うんだ」=「I'm glad you like it. It's special, so I think you should use it from time to time.」
 「ああ、そのほうがいーな。いきなり変えるのもヘンだしさ」=「Yeah, that's better. It'd be weird to suddenly change it.」
-「ところで[Pあだ名]って呼ぶの、そんなに照れくさい？」=「By the way, is it that embarrassing to call it a [Pあだ名]?」
 「まあ……かなりな。やっぱ特別すぎんじゃね？ ふつーのにしろよ」=「Well... pretty much. Isn't it a little too special? Just do it normally.」
-「いや、君に[Pあだ名]って呼んでほしいんだ！」=「No, I want you to call me a [Pあだ名]!」
 「うん、君の思ってる通り俺は君のこと好きだよ。もちろん君さえ良ければ……付き合いたい」=「Yeah, just like you think, I like you. Of course, if you're okay with it... I want to go out with you.」
 「ほ、ほんとかよ……ムリしてんじゃなくて？ オレなんかで……いいのか？」=「I-It's true... You're not forcing yourself? Are you... okay with someone like me?」
 「君と色々話をしたし、仲良くなったのは、君が好きだからだよ。オレなんか、じゃないよ」=「I talked to you a lot, and we became friends because I like you. It's not me.」
@@ -450,12 +445,9 @@
 「助かるぜ！ マジで今一番続きが気になる漫画でさ。早く読みたかったんだよ」=「You're a lifesaver! It's the manga I'm most interested in right now. I wanted to read it as soon as possible.」
 「えっとさ、オレらも知り合ってけっこー経つだろ？ だから、ツレっぽい呼び方とかしねえか？」=「Umm, we've known each other for a long time, haven't we? So why don't you call me Tsure?」
 「それはいいね。君はどんな感じがいいと思う？」=「That's good. What do you think is good?」
-「……[Pあだ名]……ってのはどーだ？」=「...'[Pあだ名]'... How about that?」
 「そう呼ばれるとなんだか新鮮だね。俺はいいよ」=「It's kind of refreshing to hear you call me that. I'm fine with it.」
 「そうか？ へへ、じゃあ決まりな！ で、オマエはオレをなんて呼んでくれんだ？」=「Really? Hehe, then it's decided! So, what are you going to call me?」
-「そうだなぁ、[Hあだ名]とかはどうかな？」=「Hmm, how about [Hあだ名]?」
 「あー、いいんじゃねえか。ツレだけの特別な言い方って感じするし」=「Ah, what's wrong with that? It feels like a special way to put it.」
-「それじゃあ[Hあだ名]、これからもよろしくね」=「Well, [Hあだ名], I look forward to working with you.」 
 「よ、よろしくな。まだ慣れてねーから、やっぱハズいな……！ 呼ぶの、時々でいーからよ」=「N-Nice to meet you. I'm not used to it yet, so it really shouldn't be...! I don't need to call you that every now and then.」
 「わかったよ。その方が特別な感じがするし、いいかもね」=「Okay. It feels more special that way, so it might be good.」
 「こないだ借りた雑誌の漫画、オレ全部読んでんだよ。あれマジで面白いよな」=「I read all the manga from the magazines I borrowed the other day. That's seriously interesting.」
@@ -1101,8 +1093,6 @@
 「おし、それでいっぺんやってみっか。真っすぐ振り出す、だよな。いくぞぉ……それっ！」=「Okay, let's try it all at once. I'll start swinging straight, right? Let's go... Here!」
 「……まっすぐ進んでるみたいだね。ナイススペア！」=「...Looks like you're going straight ahead. Nice spare!」
 「いやったぜぇ♪ オマエのコーチのお陰だ、ありがとな。またおかしくなったら頼むな。頼りにしてるからさ♪」=「Yay♪ It's all thanks to your coach. Thanks. Don't hesitate to ask me if you get weird again. I'll be counting on you♪」
-「おーっす、[Pあだ名]。おはよ」=「Good morning, [Pあだ名]. Good morning.」
-「[Hあだ名]、おはよう。今日もよろしくね」=「Good morning, [Hあだ名]. Nice to meet you again today.」
 「おう、よろしくな」=「Yeah, nice to meet you.」
 「オマエともけっこー来たけど、まだまだ覗いてない店とかあるな」=「I came here with you, but there's still a few places I haven't checked out.」
 「あまりに多いから、来る度にお店が代わってるような気がするよ」=「There's so many of them that I feel like every time I come here, the shops switch places.」
@@ -1523,8 +1513,6 @@
 「なーなー、今度の祭りオレと一緒にいこーぜ？」=「Hey, hey, let's go to the next festival together, okay?」
 「うんうん、いい返事だ♪ オマエとなら一緒に歩いてるだけでも楽しいからさ」=「Yeah, that's a good answer♪ It's fun just walking around with you.」
 「ええ……マジで？ んだよ、楽しみにしてたの、オレだけか……」=「Yeah... Seriously? What, I was the only one looking forward to it...?」
-「……なあ、[Pあだ名]」=「...Hey, [Pあだ名].」
-「どうかした？ [Hあだ名]」=「What's wrong? [Hあだ名].」
 「いや、ちょっと呼んでみたくってさ♪」=「No, I just wanted to call you♪」
 「暑いのは平気？」=「Are you okay with the heat?」
 「オレはキライだ。ほんと毎日暑くてダルい……」=「I don't like it. It's so hot and dreary every day...」
@@ -1555,12 +1543,9 @@
 「オマエと運動すんのたのしーな」=「It's fun to exercise with you.」
 「おう、なんか楽しいものでも見つけたか？ 面白そうだな……ついてくぜ」=「Hey, did you find something fun? Sounds fun... I'll follow you.」
 「えー……なんだろ、妙な予感がする。よし、ここは敢えて断る！ 勘は大事にしねーとな」=「Whaaat...? I have a strange feeling about this. Okay, I'll turn down the offer! I need to take good care of my intuition.」
-「ねぇ、[Hあだ名]」=「Hey, [Hあだ名].」
-「……[Pあだ名]……こう呼べば満足か？」=「...[Pあだ名]... Is this enough to satisfy you?」
 「あの、さ……恥ずかしいし、お願いとかガラじゃねーんだけど。その……オレとしないか？」=「Umm, well... It's embarrassing, and I don't really want to beg you. Umm... Would you like to do it with me?」
 「なーんだ、オレと同じ気持ちだったみてーだな。ちょっと嬉しいかも……」=「Wow, looks like you felt the same way as me. I'm a little happy...」
 「そ、そっか……無理言ったみたいだな。なんかちょっと悲しくなってきた」=「I-I see... Looks like I said something unreasonable. I'm starting to get a little sad.」
-「[Pあだ名]……オレ、エッチしたいんだ……ダメ、か？」=「[Pあだ名] ...I want to have sex... Is that okay?」
 「つーかさ、オレと一緒に祭りを回ろうぜ」=「Anyway, let's go around the festival together.」
 「うんうん♪ まあ……正直、とにかくオマエと一緒に見て回りたかったんだけどな」=「Yeah, yeah♪ Well... To be honest, I wanted to look around with you.」
 「断られる展開は予想してなかったぞ……」=「I didn't expect you to turn me down...」
@@ -1938,7 +1923,6 @@
 「なるほど、俺も同じ感じかも。せっかくなら、自分の力を試してみてーよな」=「I see. I guess I feel the same way. Since you're here, why don't you try your own power?」
 「柄じゃねーこと言うけど、あんまサボり過ぎんなよー」=「I know this isn't my style, but don't slack off too much.」
 「わっ！ びっくりした……もー、驚かすなよな」=「Wah! You scared me... Geez, don't scare me like that.」
-「おーっす、[Pあだ名]。ちょっと話さねーか？」=「Hey there, [Pあだ名]. Wanna talk for a bit?」
 「ん？ オレはとっくにそのつもりだったぜ。オマエ、オレとしか行くやついねーだろーしな」=「Hm? That's what I was planning on doing a long time ago. You're the only one who's going with me.」
 「あー……悪い、すぐにはＯＫできないんだよ。ちょっと色々あってな」=「Ah... Sorry, I can't say yes right away. A lot's happened.」
 「あー、今忙しいから後でな」=「Ah, I'm busy right now, so I'll see you later.」
