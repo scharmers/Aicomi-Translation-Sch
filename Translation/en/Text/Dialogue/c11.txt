@@ -1843,7 +1843,7 @@
 「こちらでよろしいのですか？」=「Is this okay?」
 「あ……私に何かお話があるのですね？」=「Ah... You have something to tell me, don't you?」
 「貴方はここに来てはいけないのですが……仕方ないですね」=「You're not allowed to come here, but... there's nothing we can do about it.」
-「貴方とお話したいと思っていたのです」=「I wanted to talk to you.」
+「貴方とお話したいと思っていたのです」=「I've been wanting to talk to you.」
 「……本当、ですか？ とても、嬉しいです」=「...Really? I'm very happy.」
 「それじゃあ、ＯＫしてくれるかな」=「Well then, will you give me the okay?」
 「はい。貴方のことは、私も……好き、です。真剣にお付き合いをしたいと思っています」=「Yes. I... love you too. I want to be serious with you.」

@@ -1467,7 +1467,7 @@
 「残念じゃ……やる気が空回ってしまった」=「Unfortunately... I've lost all motivation.」
 「良ければ、一緒に勉強に付き合ってくれぬか？」=「Would you like to study with me?」
 「決まりじゃな。一緒に頑張るとしよう」=「It's decided. Let's do our best together.」
-「そうか……残念じゃが仕方ないの」=「I see... Unfortunately, it can't be helped.」
+「そうか……残念じゃが仕方ないの」=「I see... it's a shame, but it can't be helped.」
 「ん？ あまり良い気分ではないのじゃ、ほどほどにな……」=「Hm? I'm not in the best mood. Try not to overdo it...」
 「その……どうじゃ？ お主が良ければ、我と気持ちいいことせんか？」=「Umm... How about it? If you like, won't you do something pleasant with me?」
 「我だって昂ることはあるのじゃ……さあ、楽しもうぞ」=「Even We can get excited sometimes... Come on, let's enjoy ourselves.」

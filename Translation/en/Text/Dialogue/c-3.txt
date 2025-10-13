@@ -172,7 +172,7 @@
 「えっ、それってどんな時ですか？」=「Huh? What kind of time is that?」
 「その、アレよ……ジェネレーションギャップを感じさせないようにって考えたりすると……ね」=「Well, you know... when I think about how I don't want the generation gap to feel...」
 「ふふ、お互い考えすぎな性格で苦労するわね。でもまた一つ、あなたと距離が近くなった気がするわ」=「Hehe, we're both overthinking things, so it's hard for both of us. But I feel like we've gotten closer to each other again.」
-「どうしたの？ なんだか妙にそわそわしているわね……=「What's the matter? You seem strangely restless...」
+「どうしたの？ なんだか妙にそわそわしているわね……」=「What's the matter? You seem strangely restless...」
 「あら、それで落ち着きがなかったのね。どうだった？ 最後まで読んでみた感想は……」=「Oh, so that's why you're so restless. How was it? What are your thoughts after reading it all the way through...?」
 「もう最高でした！ 特に最後……砂漠の惑星を救うシーンとか何回も読み返しちゃいましたよ」=「It was the best! Especially the last part... I kept rereading the scene where they save the desert planet over and over.」
 「ふふ、あそこはたしかに最高ね。水の惑星と砂漠の惑星を繋いで、どちらの惑星も救ってしまったのだから」=「Hehe, that part really is the best. It connected the water planet and the desert planet, saving both worlds.」
@@ -321,7 +321,7 @@
 「そんなことないわ。あなたは立派な男性で、私の大好きな人よ」=「That's not true. You're a fine man, and I love you.」
 「たまには甘えたりしてもいいですか？」=「Can I be a little clingy with you sometimes?」
 「もちろん。年上の彼女の利点を、たっぷり堪能するといいわ」=「Of course. You should fully enjoy the benefits of having an older girlfriend.」
-「ふふ、私も同じよ。少し前の私に言っても絶対に信じないでしょうね」=「Hehe, I feel the same way. Even if I told you a little while ago, you'd never believe me.」
+「ふふ、私も同じよ。少し前の私に言っても絶対に信じないでしょうね」=「Hehe, Me too. If I told my past self, she'd never believe me.」
 「俺も図書館で働きたいって言ったら、嬉しいですか？」=「Would you be happy if I said I wanted to work at the library too?」
 「嬉しいけれど、よく考えて。あなたがどんな仕事に就こうと、私は一緒にいるから」=「I'd be happy, but think it over. No matter what job you take, I'll be right here with you.」
 「恋人同士と言えど、期待しすぎはダメってことね」=「Even if we're lovers, we can't expect too much from each other.」

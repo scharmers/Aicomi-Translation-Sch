@@ -179,7 +179,7 @@
 「ええ、わかりすぎるほどにね。私……キミのことが好きなの」=「Ehh, I understand all too well. I... I love you.」
 「えぇっ！？ な、な……なに、それ……」=「Ehh!? Wh-Wh-What... what, now...?」
 「……子供の頃、キミに色々教えてあげたでしょ？ 目を輝かせるキミが愛おしくて、それが教師を目指すきっかけなの」=「...When you were little, I taught you all sorts of things, didn't I? I loved seeing your eyes sparkle, and that's what made me want to become a teacher.」
-「教職に就き、キミが転校してきて、わぁ嬉しい♪ とか思ってたら恋人ができて……ぶっちゃけ面白くないわよね」=「I became a teacher, and when you transferred here, I was like, “Wow, I'm so happy!” But then you got a boyfriend... honestly, it's not fun, you know?」
+「教職に就き、キミが転校してきて、わぁ嬉しい♪ とか思ってたら恋人ができて……ぶっちゃけ面白くないわよね」=「I became a teacher, and when you transferred here, I was like, “Wow, I'm so happy!” But then you got a girlfriend... honestly, it's not fun, you know?」
 「……ぶっちゃけ過ぎじゃない？」=「...Aren't you being a little too blunt?」
 「とにかく！ キミの相談はもう受けられないわ……自分が不憫になっちゃうし」=「Anyway! I can't take my own advice anymore... it just makes me feel sorry for myself.」
 「不憫だなんて言わないでよ。俺が好きなら、好きでいいじゃない？ だって……両思いなんだしさ」=「Don't feel sorry for yourself. If you love me, then it's okay to love me, right? Because... we love each other, after all.」
@@ -287,8 +287,8 @@
 「わざわざ私に聞いてくるようなところは好きよ」=「I like how you make the effort to ask me.」
 「社会人って忙しいんだよね？ 俺との時間、休養にあてなくていいの？」=「Workers are busy, aren't they? Don't you need to spend time with me to rest?」
 「余計なこと気にしないの。仕事と遊びの両立が大人の証なんだから」=「Don't worry about unnecessary things. The balance between work and play is proof that you're an adult.」
-「俺、もっと勉強の時間、増やしたほうがいいのかな」=「Maybe I should spend more time studying.」
-「その方がいいわね……でも、私との時間は減って欲しくないなぁ」=「That'd be better... But I don't want our time together to decrease.」
+「俺、もっと勉強の時間、増やしたほうがいいのかな」=「Should I try to make more time for studying?」
+「その方がいいわね……でも、私との時間は減って欲しくないなぁ」=「That's probably best... But I don't want you to spend less time with me.」
 「んー、その話も素敵だけど、違う話題の方が嬉しいわね」=「Hmm, that's a wonderful story, but I'd prefer a different topic.」
 「キミとお話すると、ストレス解消になるのよね」=「Talking with you really helps me unwind.」
 「ごめんなさいね。また別の機会にお話しましょ」=「I'm sorry. Let's talk another time.」
@@ -336,7 +336,7 @@
 「……ドキドキして話に集中できないわ」=「...I'm so excited I can't focus on the conversation.」
 「ずっと一緒にいたいけど、そういうわけにもいかないのよね」=「I want to be with you forever, but that's not an option.」
 「お話が終わると、淋しくなっちゃうわ」=「I'll be lonely when we're done talking.」
-「もう、せっかちね。もっとゆっくりしていってくれていいのに」=「Geez, you're so impatient. You could've taken your time.」
+「もう、せっかちね。もっとゆっくりしていってくれていいのに」=「Geez, you're so impatient. You could have stayed longer.」
 「……一緒にいる時間が、すごく貴重に感じられたわ」=「...The time we spent together felt so precious.」
 「そうね、今日のところはお祭りを楽しみましょう」=「Yeah, let's enjoy the festival for today.」
 「キミとは教師と学生だけど……幼馴染でもあるのよね……」=「We're a teacher and a student... but we're also childhood friends...」
