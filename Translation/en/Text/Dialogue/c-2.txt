@@ -88,7 +88,7 @@
 「それはもちろん。というか、ここにしかカフェはないですし」=「Of course. Especially since this is the only cafe around.」
 「確かにそうだったわね。じゃあ、あなた一人でも、お友達と一緒でもいいから、いっぱい利用してくれると嬉しいわ」=「You're exactly right. Well then, whether you come alone or with friends, I'd be thrilled if you'd come visit us often.」
 「任せてください。これからも売り上げに貢献させていただきます」=「Leave it to me. I'll keep contributing to your sales.」
-「少し煽っといてなんだけど、そこまで頑張らなくていいのよ？　ほどほどで充分だからね？」=「...I know I'm teasing you a bit, but you don't have to push yourself that hard, okay? A little goes a long way.」
+「少し煽っといてなんだけど、そこまで頑張らなくていいのよ？ ほどほどで充分だからね？」=「...I know I'm teasing you a bit, but you don't have to push yourself that hard, okay? A little goes a long way.」
 「楽しかった～……やっぱりお祭りってテンションがあがるわね」=「That was fun~... Festivals really are exciting.」
 「そうですね。あと、素敵な彼女と一緒だと余計に上がります」=「That's right. Also, being with a wonderful girlfriend makes it all the more exciting.」
 「あら♪ ふふふっ、私も、素敵な彼氏が隣に居てくれるから、すっごく楽しいお祭りだったわ」=「Oh♪ Hehehe, I had a wonderful boyfriend next to me, so it was a really fun festival.」
@@ -244,7 +244,7 @@
 「ふふっ、あなたと居るのって、なんだか楽しいわ」=「Hehe, it's kind of fun being with you.」
 「あら、なにかおもしろいものでもあったの？」=「Oh, did something interesting happen?」
 「そっかぁ……」=「I see...」
-「うんうん、私になにか話があるのかな？」=「Yeah, yeah, go something you want to talk to me about?」
+「うんうん、私になにか話があるのかな？」=「Yeah, yeah, got something you want to talk to me about?」
 「私もあなたと話したかったんだぁ」=「I wanted to talk to you too.」
 「あら？ 奇遇ね、あなたもお祭りに来ていたんだ？」=「Oh? What a coincidence. You came to the festival too?」
 「あなたと話が出来てよかった。また話し相手になってね」=「I'm glad I got to talk to you. I'll be your conversation partner again.」
@@ -276,8 +276,8 @@
 「どういうエッチがしてみたいとかありますか？」=「What kind of sex do you want to have?」
 「一日中愛し合うようなエッチは……一度でいいからやってみたいわね」=「I'd like to try having sex that makes you love each other all day... just once.」
 「もう……普通の話題を振ってほしいわ」=「Geez... I wish you'd just bring up a normal topic.」
-「他にアルバイトって経験したことありますか？」=「Have you experienced any other part-time jobs?」
-「あるよー。私ね、ファーストフードの店員やってたんだ」=「I do. I used to work as a fast-food employee.」
+「他にアルバイトって経験したことありますか？」=「Have you ever had any other part-time job experience?」
+「あるよー。私ね、ファーストフードの店員やってたんだ」=「I have. I used to work as a fast-food employee.」
 「この村でオススメのスポットとかってありますか？」=「Any spots in the village you can recommend to me?」
 「いっぱいあるわ。今度連れて行ってあげるね」=「There are plenty. I'll take you there next time.」
 「男性の苦手な仕草とかってあったりしますか？」=「Are there any mannerisms that women find unappealing?」

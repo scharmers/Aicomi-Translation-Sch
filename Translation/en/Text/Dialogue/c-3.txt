@@ -317,8 +317,8 @@
 「最近、あなたと話せるのが楽しみになっている気がするわ」=「I feel like I've been looking forward to talking to you lately.」
 「俺と本だったら、どっちが好きですか？」=「Between me and a book, which do you like better?」
 「意地悪な質問ね。あなたって言っておくわ……ふふ」=「That's a mean question. I'll just say “you”... hehe.」
-「年下の彼氏って、やっぱり頼りないですか？」=「Is your younger boyfriend unreliable after all?」
-「そんなことないわ。あなたは立派な男性で、私の大好きな人よ」=「That's not true. You're a fine man, and I love you.」
+「年下の彼氏って、やっぱり頼りないですか？」=「Are younger boyfriends really unreliable?」
+「そんなことないわ。あなたは立派な男性で、私の大好きな人よ」=「That's not true. You're a fine man, and I adore you.」
 「たまには甘えたりしてもいいですか？」=「Can I be a little clingy with you sometimes?」
 「もちろん。年上の彼女の利点を、たっぷり堪能するといいわ」=「Of course. You should fully enjoy the benefits of having an older girlfriend.」
 「ふふ、私も同じよ。少し前の私に言っても絶対に信じないでしょうね」=「Hehe, Me too. If I told my past self, she'd never believe me.」
@@ -403,7 +403,7 @@
 「あらあら、知らず知らずのうちに、あなたを誘惑してしまっていたようね」=「Oh dear, it seems I've been tempting you without even realizing it.」
 「もちろんいいわよ。そんな素敵なお誘い、断るわけないじゃない」=「Of course. There's no way I'd refuse such a wonderful invitation.」
 「あなたとした後はしばらく幸せな感じが続くの……ふふ、これで仕事も捗りそうだわ」=「After being with you, that happy feeling lasts for a while... Hehe, this should make work go much smoother.」
-「正直、若い子の性欲を舐めていたわ……それともあなたが凄いだけなのかしら……」=「Honestly, I was underestimating a young girl's sexual desires... Or maybe you're just amazing...」
+「正直、若い子の性欲を舐めていたわ……それともあなたが凄いだけなのかしら……」=「Honestly, I underestimated a young man's sex drive... or maybe you're just that amazing.」
 「すっかりあなたの匂いが染みついてしまったわ……しばらくオカズには困らなそうね」=「Your scent has completely permeated me... looks like I won't be short of fap material for a while.」
 「まぁ、歳の差もあるしね……お互い変に気にせず、切り替えていきましょう」=「Well, there's a difference in age between us... Let's both switch gears without worrying about anything weird.」
 「少し遠慮させてしまったかしら……私、ダメな大人ね……」=「Maybe I made you hold back a little... I'm such a useless adult...」
@@ -415,7 +415,7 @@
 「大人も満足せてしまうなんて大したものよ……自信をもっていいと思うわ」=「It's amazing that even adults can be satisfied... I think you should be confident.」
 「あなたって、私以上に私の身体を知っているわよね」=「You know my body better than I do, don't you?」
 「誘ったからにはと頑張ったつもりだけれど……満足してもらえたかしら？」=「I thought I did my best because I invited you, but... I hope you're satisfied?」
-「年下とのエッチでイって悔しいなんて思ってないわ……ただただ、気持ちよくて幸せだっただけ」=「I don't think it's frustrating to cum while having sex with someone younger than me... It's just that it felt good and made me happy.」
-「イった後まで身体が疼きっぱなしよ……きっとあなた、エッチは大人以上に上手いわね」=「My body keeps aching until I cum... I'm sure you're even better at sex than adults.」
-「割り切ってしまえば痛みもいいものよ……こういう時、大人の女って便利でしょう」=「It's good to be able to break it down... Adult women are convenient at times like these.」
+「年下とのエッチでイって悔しいなんて思ってないわ……ただただ、気持ちよくて幸せだっただけ」=「I don't feel frustrated about climaxing during sex with someone younger... I was just feeling good and happy.」
+「イった後まで身体が疼きっぱなしよ……きっとあなた、エッチは大人以上に上手いわね」=「My body still throbs even after I've came... I bet you're better at sex than most adults.」
+「割り切ってしまえば痛みもいいものよ……こういう時、大人の女って便利でしょう」=「Once you accept it, pain can be a good thing... at times like these, being a grown woman sure comes in handy, doesn't it?」
 「痛かろうが年下だろうが……私はただの快楽に弱い女なんだって、思い知られてしまったわね」=「It doesn't matter if it hurts or if it's younger... I'm just a woman who's weak to pleasure.」
