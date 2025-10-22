@@ -2,10 +2,9 @@
 
 A fork of Aicomi-Translation by Scharmers. 
 1. Focuses mainly on dialogue (i.e. the files in the \Dialogue folder) GUI is not changed.
-2. Dialogue lines have been reworked to read more "naturally".
-3. Consider this project as being in a permanent WIP state with no expectation of completion but as of 10-7-25 I've modfied hundreds, if not thousands of lines
-4. Please feel free to check out, say, the cheerful personality as an example of my work and completion.
-5. As of 10-7-25, H lines have not been dumped, so H and "interstitial" subtitles are not present.
+2. Dialogue lines have been reworked to read more "naturally" as best I can.
+3. Consider this project as being in a permanent WIP state with no expectation of completion. There are tens of thousands of lines and I'm translating them as I go. Use them as you see fit.
+4. Marco dumped the H lines (two .json files) so there have been many of those those updated in this archive as well
 
 **## Original Readme**
 
